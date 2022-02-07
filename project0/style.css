@@ -1,0 +1,75 @@
+
+h1 {
+    color: #A51C30;
+    text-align: center;
+    @font-face {
+        font-family: 'Product Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+      }  
+}
+
+h3 { 
+    color: #bb89ca; 
+    font-family: Lora; 
+    text-align: center;
+} 
+
+.nav {
+    text-align: right;
+}
+.nav_button {
+    background-color: #A51C30;
+    border: none;
+    padding: 15px 15px;
+    text-align: right;
+    color: #ffff;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.search {
+    text-align: center;
+}
+
+.search_bar {
+border-radius: 25px;
+border: 2px solid #A51C30;
+padding: 20px; 
+width: 250px;
+height: 40px;
+font-size: 25px;
+}
+
+.search_button {
+    background-color: #A51C30;
+    border: none;
+    padding: 10px 10px;
+    text-align: center;
+    color: #ffff;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.scholar_button { 
+    background-color: #4285F4;
+    border: none;
+    padding: 15px 15px;
+    text-align: right;
+    color: #ffff;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    align-content: right;
+    float: right;
+}
+
+
+
+
